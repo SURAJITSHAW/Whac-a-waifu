@@ -16,5 +16,6 @@
 }
 
 .mole {
-    background-color: palevioletred;
+    background-image: url('./waifu.jpg');
+    background-size: cover;
 }
